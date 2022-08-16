@@ -13,10 +13,11 @@
 </div>
 <br>  
 <div style="display: inline_block">
-  <img align="center" alt="Hebert-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Hebert-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Hebert-JS" height="60" width="70"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img align="right" alt="Hebert-gif" height="60" width="70" src="https://cdn.discordapp.com/attachments/1008980435851812968/1008985699774631977/picasion.com_2b28899a07d7d3d0fb1c31ef98e46119.gif">
+<img aling="right" alt="Hebert-vim" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg"/>
+ <img aling="right" alt="Hebert-html" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img aling="right" alt="Hebert-css" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img aling="right" alt="Hebert-Js" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="right" alt="Hebert-gif" height="60" width="70" src="https://cdn.discordapp.com/attachments/1008980435851812968/1008985699774631977/picasion.com_2b28899a07d7d3d0fb1c31ef98e46119.gif">
 </div>
   
 ##
